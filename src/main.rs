@@ -21,9 +21,9 @@ fn reve(s:&String)->String{
             flag=0; 
         }
     }
-    v.reverse();
-    r.append(&mut v);
-    v.clear();
+   // v.reverse();
+   // r.append(&mut v);
+   // v.clear();
     println!("{:?}",r);
    
      let mut indl=0;
