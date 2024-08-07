@@ -4,7 +4,7 @@ fn main() {
      println!("{}",k);
      print!("hello");
 }
-
+//hello hiii
 fn reve(s:&String)->String{
     let mut rmsg=String::new();
     let mut v=Vec::new();
