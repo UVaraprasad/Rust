@@ -2,7 +2,8 @@ fn main() {
      let s=String::from("prasad123akil678pavan111");
      let k=reve(&s);
      println!("{}",k);
-     print!("hiiiiiiiiiii");
+    // print!("hiiiiiiiiiii");
+     print!("prasad");
      print!("hello");
      // prasad
 }
