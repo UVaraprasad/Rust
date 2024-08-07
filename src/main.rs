@@ -2,6 +2,7 @@ fn main() {
      let s=String::from("prasad123akil678pavan111");
      let k=reve(&s);
      println!("{}",k);
+     print!("hello");
 }
 
 fn reve(s:&String)->String{
